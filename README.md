@@ -25,6 +25,7 @@ git clone https://github.com/shayantaherian/Object_Detection_Carla.git
 6) Finally run `Object_Detection.py`.
 
 Note that to use yolov3 for this task, it is required to download yolo weights from [yolov3.weights](https://drive.google.com/file/d/1xYasjU52whXMLT5MtF7RCPQkV66993oR/view). Examples of this detection system in carla environment can be seen as follows:
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51369142/111666708-e13fba80-880b-11eb-98e6-5aa09e7621c9.PNG" width="400" height="300"/>                                     <img src="https://user-images.githubusercontent.com/51369142/111666881-0d5b3b80-880c-11eb-91b0-e4de670b6988.PNG" width="400" height="300"/>
 <img src="https://user-images.githubusercontent.com/51369142/111667461-a25e3480-880c-11eb-97e2-6d08b26e3a4a.PNG" width="400" height="300"/>
