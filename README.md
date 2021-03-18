@@ -8,8 +8,7 @@ This repository aims to provide an object detection system in carla simulation e
 To start with the implementation
 1) Download [CARLA simulator](https://carla.org/2020/12/22/release-0.9.11/) (version 0.9.11).
 
-2) Clone the repository
-
+2) Clone the following repository
 ```
 git clone https://github.com/shayantaherian/Object_Detection_Carla.git
 ```
