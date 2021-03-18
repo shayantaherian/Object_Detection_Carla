@@ -3,6 +3,6 @@
  </p>
  
 # Object Detection Carla
-This repository aims to provide an object detection system in carla simulation environment. YOLO-v3 algorithm is chosen as a detector system to detect and classify pedestriants, vehicles and objects on the road. This algorithm is based on [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf) which originaly implemented in [YOLOv3](https://github.com/pjreddie/darknet)
+This repository aims to provide an object detection system in carla simulation environment. YOLOv3 algorithm is chosen as a detector system to detect and classify pedestriants, vehicles and objects on the road. This algorithm is based on [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf) which originaly implemented in [YOLOv3](https://github.com/pjreddie/darknet)
 # Installation
 To start with the implementation, first [CARLA simulator](https://carla.org/2020/12/22/release-0.9.11/) (version 0.9.11) needs to be downloaded.
